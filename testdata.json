@@ -1,0 +1,16 @@
+{
+    "Users" : {
+
+        "validUser" : {
+        "Username" : "admin@email.com",
+        "Password" : "admin@123"
+                     },
+
+    "InvalidUser" : {
+        "Username" : "InvalidUser@gmail.com",
+        "Password" : "InvalidPassword"
+    }
+              },
+
+    "Interests" : ["Cricket", "Movies", "Traveling", "Reading"]   
+}
